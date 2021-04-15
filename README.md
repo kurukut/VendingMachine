@@ -1,4 +1,4 @@
-# VendingMachine
+# VendingMachine (Microservices, Spring boot, Hibernate)
 how to run the project
 =======================
 unzip VendingMachine.zip
